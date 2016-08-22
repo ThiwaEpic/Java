@@ -6,3 +6,7 @@ Temporary Tested and Developing Java
   - JavaIoTest2 - System.in use with BufferedReader example
   - JavaIoTest3 - System.in use with Scanner example
   - JavaIoTest4 - Redirect standard output into file
+
+- Java IO Template
+  - WriteToFile - sample template for write to file/log
+  - Test - provide sample
